@@ -1,2 +1,2 @@
 # South Korea
-Understanding the basics and how github works
+Data on COVID-19 cases in South Korea
